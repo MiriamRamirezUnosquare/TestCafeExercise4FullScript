@@ -1,0 +1,19 @@
+{
+    "name": "testcafe_training",
+    "version": "1.0.0",
+    "description": "Full Script",
+    "main": "FullScript.js",
+    "scripts": {
+      "test": "testcafe"
+    },
+    "keywords": [
+      "TestCafe",
+      "Automation",
+      "Testing"
+    ],
+    "author": "Miriam Ramirez",
+    "license": "ISC",
+    "dependencies": {
+      "testcafe": "^3.3.0"
+    }
+  }

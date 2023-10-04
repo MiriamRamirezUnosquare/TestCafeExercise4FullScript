@@ -1,0 +1,15 @@
+{
+    "browsers": ["chrome","firefox"],
+    "src": "./Tests/",
+    "debugOnFail": true, 
+    "output": "reports/report.xml",
+    "selectorTimeout": 3000,
+    "assertionTimeout": 3000, 
+    "pageLoadTimeout": 3000,
+    "skipJsErrors": true,
+    "screenshots": {
+        "takeOnFails": true
+    },
+    "speed": 0.7,
+    "concurrency": 2
+}       
